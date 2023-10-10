@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="style.css">
     <title>Welcome, Student</title>
 </head>
 <body>
@@ -16,7 +16,6 @@
                 <li><a href="#">Home</a></li>
                 <li><a href="#">Attendance</a></li>
                 <li><a href="#">Reports</a></li>
-                <li><a href="#">Profile</a></li>
             </ul>
         </nav>
     </header>
